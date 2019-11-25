@@ -1,4 +1,4 @@
-package two.DistributeMessages;
+package two.distribute_messages;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
